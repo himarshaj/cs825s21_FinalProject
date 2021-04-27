@@ -5,6 +5,10 @@
 
 #### Observable Collection URL: https://observablehq.com/collection/@himarshaj/cs-725-825-spr21-final-project-dashboard
 
+##### Dashboard: https://observablehq.com/@himarshaj/part-2-dashboard?collection=@himarshaj/cs-725-825-spr21-final-project-dashboard
+
+##### Report: https://observablehq.com/@himarshaj/part-3-report?collection=@himarshaj/cs-725-825-spr21-final-project-dashboard
+
 ### List of directories
 
   * [Data after initial manipulation](5.1)
