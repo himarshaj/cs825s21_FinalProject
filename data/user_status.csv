@@ -1,0 +1,16 @@
+community,community_type,user_status,value,percentage
+0,detractor,active,846111,98.27
+0,detractor,deleted,6206,0.72
+0,detractor,suspended,8659,1.01
+1,promoter,active,378887,86.55
+1,promoter,deleted,40528,9.26
+1,promoter,suspended,18368,4.20
+2,promoter,active,266332,77.83
+2,promoter,deleted,29821,8.71
+2,promoter,suspended,46031,13.45
+3,promoter,active,32755,97.52
+3,promoter,deleted,319,0.95
+3,promoter,suspended,513,1.53
+4,promoter,active,22674,96.84
+4,promoter,deleted,383,1.64
+4,promoter,suspended,357,1.52
